@@ -8,4 +8,4 @@ um jogo da velha.
 
 * cada casa do jogo da velha podera estar vazia,
 ocupada
-pelo 1° jogador ou ocupada pelo 2°.
+pelo 1° jogador ou ocupada pelo 2°...
